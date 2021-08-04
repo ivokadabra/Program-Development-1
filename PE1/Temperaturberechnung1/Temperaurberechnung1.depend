@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571948055 source:c:\users\ivo\desktop\temperaturberechnung1\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1572986814 source:c:\users\ivo\desktop\pe1\temperaturberechnung1\main.c
+	<stdlib.h>
+	<stdio.h>
+

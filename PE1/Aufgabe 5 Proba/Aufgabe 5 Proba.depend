@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576514817 source:c:\users\ivo\desktop\pe1\aufgabe 5 proba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
